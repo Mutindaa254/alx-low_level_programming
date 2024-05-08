@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * _strcat - This is the main function for concatenating text
  * @dest: Thsi is whre to copy the text to.
