@@ -15,7 +15,7 @@ practicing implementing my own and include-guarding header files.
 
 * **1. Pi**
   * [1-pi.h](./1-pi.h): Header file that defines a macro named `PI` as an abbreviation
-  for the token `3.14159265359`.
+  for the token `3.141592653590`.
 
 * **2. File name**
   * [2-main.c](./2-main.c): C program that prints the name of the file it was
