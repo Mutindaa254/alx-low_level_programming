@@ -1,6 +1,5 @@
 #ifndef VARIADIC_FUNCTIONS_H
 #define VARIADIC_FUNCTIONS_H
-
 /*
  * File: variadic_functions.h
  * Auth: Tolulope Fakunle
