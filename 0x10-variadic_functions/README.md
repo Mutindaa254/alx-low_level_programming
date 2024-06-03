@@ -21,6 +21,7 @@ prototypes for all types and functions written in the project.
 | `struct printer`         | <ul><li>`char *symbol`</li><li>`void (*print)(va_list arg)`</li></ul>   |
 | `typedef printer_t`      | `struct printer`                                                        |
 
+
 ## Tasks :page_with_curl:
 
 * **0. Beauty is variable, ugliness is constant**
