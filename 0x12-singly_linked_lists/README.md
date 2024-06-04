@@ -18,6 +18,7 @@ types and functions written for the project.
 | `3-add_node_end.c` | `list_t *add_node_end(list_t **head, const char *str);`                                |
 | `4-free_list.c`    | `void free_list(list_t *head)`                                                         |
 
+
 ## Tasks :page_with_curl:
 
 * **0. Print list**
