@@ -1,5 +1,6 @@
 #include "dog.h"
 #include <stdlib.h>
+
 /**
  * free_dog - frees dogs.
  * @d: struct dog.
