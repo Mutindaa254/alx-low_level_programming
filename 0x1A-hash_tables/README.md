@@ -12,6 +12,7 @@ In this project, I learned about hashing by implementing hash functions and hash
 
 Data Structures:
 ```
+
 typedef struct hash_node_s
 {
 	char *key;
