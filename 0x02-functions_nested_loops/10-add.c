@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * add - add two numbers from input
  * @a: first aparamet
