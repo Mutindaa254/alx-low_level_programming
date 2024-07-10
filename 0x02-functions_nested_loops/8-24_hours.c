@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * jack_bauer - prints time
  *
