@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 /**
  * main - print pairs of double digit combos
  *
