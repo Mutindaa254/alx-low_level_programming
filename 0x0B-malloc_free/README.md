@@ -1,5 +1,6 @@
+------
 # C - malloc, free
------------
+
 In this project, I learned about the difference between automatic
 and dynamic location as well as how to use `malloc`, `free`, and `valgrind` in C.
 
@@ -73,3 +74,5 @@ in the project.
     * The last element of the returned array is `NULL`.
     * Words are separated by spaces.
     * If `str == NULL`, `str == ""`, or the function fails - returns `NULL`.
+   
+ ---------
