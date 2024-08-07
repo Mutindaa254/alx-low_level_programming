@@ -1,2 +1,3 @@
+------
 This project is about:
-1. More C functions and nested loops
+# 1. More C functions and nested loops
