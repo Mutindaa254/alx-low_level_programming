@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * puts_half - prints every other character of a string
  * @str: pointer
