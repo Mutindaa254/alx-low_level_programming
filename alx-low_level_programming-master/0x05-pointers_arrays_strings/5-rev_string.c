@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * rev_string - prints a reverse srting
  * @s: pointer
