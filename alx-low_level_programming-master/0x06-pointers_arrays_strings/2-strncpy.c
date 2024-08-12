@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * _strncpy - This is the funstion for copying files
  * @dest: This is the pointer destination
