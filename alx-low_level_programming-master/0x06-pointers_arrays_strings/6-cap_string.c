@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * cap_string - This is the main function
  * @s: This is the string to be entered
