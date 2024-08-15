@@ -6,6 +6,7 @@
  * @accept: the is the source character
  * Return: this resturns to the destination pointer
  */
+
 unsigned int _strspn(char *s, char *accept)
 {
 	char len = strspn(s, accept);
