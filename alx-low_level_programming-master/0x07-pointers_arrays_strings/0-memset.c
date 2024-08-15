@@ -7,6 +7,7 @@
  * @n: The is the unassigned character
  * Return: Returns the memeory of s
  */
+
 char *_memset(char *s, char b, unsigned int n)
 {
 	memset(s, b, n);
