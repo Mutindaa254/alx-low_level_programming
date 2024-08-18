@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * _memcpy - This is the main function for copying memory area
  * @dest: this is destination pointer
