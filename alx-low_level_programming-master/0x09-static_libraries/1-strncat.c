@@ -6,6 +6,7 @@
  * @n: This is number of bytes.
  * Return: this is pointer to the resulting string
  */
+
 char *_strncat(char *dest, char *src, int n)
 {
 	strncat(dest, src, n);
