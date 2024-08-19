@@ -6,6 +6,7 @@
  * @c: the is the source character
  * Return: this resturns to the destination pointer
  */
+
 char *_strchr(char *s, char c)
 {
 	char *ret = strchr(s, c);
