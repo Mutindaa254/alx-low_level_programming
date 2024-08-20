@@ -6,6 +6,7 @@
  * @needle: is the source character
  * Return: this returns the located substring
  */
+
 char *_strstr(char *haystack, char *needle)
 {
 	char *locating = strstr(haystack, needle);
