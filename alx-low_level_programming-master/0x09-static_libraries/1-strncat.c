@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * _strncat - This is the main function for concatenates two strings
  * @dest: This is the destination of the string
