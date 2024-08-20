@@ -6,6 +6,7 @@
  * @str: a pointer
  * Return: void
  */
+
 void _puts(char *str)
 {
 	char *c;
