@@ -10,6 +10,7 @@
  *
  * Return: result
  */
+
 int main(int argc, char *argv[])
 {
 	int number1;
