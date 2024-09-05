@@ -9,6 +9,7 @@
  * Return: function fails - NULL
  * Otherwise - address of the new element
  */
+
 list_t *add_node_end(list_t **head, const char *str)
 {
 	int len;
