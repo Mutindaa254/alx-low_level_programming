@@ -6,6 +6,7 @@
  * @head: A pointer to the head of the list
  * Return: if list is looped 0 else number of nodes
  */
+
 size_t looped_listint_len(const listint_t *head)
 {
 	const listint_t *local, *poet;
