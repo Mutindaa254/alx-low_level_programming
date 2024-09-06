@@ -5,6 +5,7 @@
  * @head: a pointer to the head of the list
  * Return: if list is not looped - 0 else number of nodes
  */
+
 size_t looped_listint_count(listint_t *head)
 {
 	listint_t *local, *poet;
