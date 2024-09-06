@@ -6,6 +6,7 @@
  * @index: the index of the node to be deleted
  * Return: on success and -1 on fail
  */
+
 int delete_nodeint_at_index(listint_t **head, unsigned int index)
 {
 	listint_t *poet, *copy = *head;
