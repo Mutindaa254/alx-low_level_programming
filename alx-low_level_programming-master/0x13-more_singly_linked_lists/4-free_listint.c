@@ -5,6 +5,7 @@
  * free_listint - frees a list
  * @head: A pointer to the list_tint list
  */
+
 void free_listint(listint_t *head)
 {
 	listint_t *release;
