@@ -5,6 +5,7 @@
  * @head: a pointer to the head of the list
  * Return: list is empty - 0 else sum
  */
+
 int sum_listint(listint_t *head)
 {
 	int sum;
