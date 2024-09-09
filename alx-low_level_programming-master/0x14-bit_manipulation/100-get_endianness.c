@@ -4,6 +4,7 @@
  * get_endianness - Checks the endianness
  * Return: big - 0 little - 1
  */
+
 int get_endianness(void)
 {
 	int size = 1;
