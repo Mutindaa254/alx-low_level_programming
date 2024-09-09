@@ -6,6 +6,7 @@
  * @index: The index to get the value
  * Return: error occurs -1 else value of bit
  */
+
 int get_bit(unsigned long int n, unsigned int index)
 {
 	if (index >= (sizeof(unsigned long int) * 8))
