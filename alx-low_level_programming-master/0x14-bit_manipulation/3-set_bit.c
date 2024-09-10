@@ -6,6 +6,7 @@
  * @index: The index to set the value
  * Return: error occurs -1 else 1
  */
+
 int set_bit(unsigned long int *n, unsigned int index)
 {
 	if (index >= (sizeof(unsigned long int) * 8))
