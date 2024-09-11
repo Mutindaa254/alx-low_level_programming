@@ -10,7 +10,6 @@
  * @prev: points to the previous node
  * @next: points to the next node
  */
-
 typedef struct dlistint_s
 {
 	int n;
