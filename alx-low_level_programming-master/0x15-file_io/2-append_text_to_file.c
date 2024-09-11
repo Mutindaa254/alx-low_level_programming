@@ -7,6 +7,7 @@
  *
  * Return: function fails -1 else 1
  */
+
 int append_text_to_file(const char *filename, char *text_content)
 {
 	int opn, wte, length = 0;
