@@ -12,7 +12,6 @@
  *
  * Return: 0
  */
-
 int main(int ac, char **av)
 {
 	int poet_fowad, poet_to, rd_count, wte_count, close_stat;
