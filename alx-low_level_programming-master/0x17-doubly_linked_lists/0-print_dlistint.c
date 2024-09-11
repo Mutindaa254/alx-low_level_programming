@@ -9,6 +9,7 @@
  *
  * Return: The number of nodes in the list
  */
+
 size_t print_dlistint(const dlistint_t *h)
 {
 	for (num = 0; h != NULL; num++)
