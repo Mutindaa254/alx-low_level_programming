@@ -5,6 +5,7 @@
  * *@src: This is the source of the string
  * *Return: pointer to the destination.
  */
+
 char *_strcat(char *dest, char *src)
 {
 	strcat(dest, src);
