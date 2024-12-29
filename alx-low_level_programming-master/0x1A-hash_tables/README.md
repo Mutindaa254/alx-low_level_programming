@@ -1,2 +1,2 @@
-This project is about:
-1. Hash tables
+## This project is about:
+# 1. Hash tables
