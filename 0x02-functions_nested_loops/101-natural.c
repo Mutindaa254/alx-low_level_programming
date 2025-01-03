@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 /**
  * main - sums nultplies of 3 or 5
  *
