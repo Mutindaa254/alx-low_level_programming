@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * *_strcat - function commute srtings
  * @dest: param pointer to a char
