@@ -1,4 +1,4 @@
-#-----
+-----
 File 0-puts_recursion.c is a function that prints a string, followed by a new line.
 
 File 1-print_rev_recursion.c is a function that prints a string in reverse.
@@ -20,3 +20,4 @@ File 100-wildcmp.c is a function that compares two strings and returns 1 if the 
 File _putchar.c is a file containing the _putchar function.
 
 File main.h is the header file containing the function prototypes
+-----
