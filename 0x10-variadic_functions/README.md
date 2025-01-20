@@ -1,3 +1,4 @@
+-----
 # C - Variadic functions
 
 In this project, I learned about using variadic functions with the `va_start`,
