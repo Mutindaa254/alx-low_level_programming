@@ -1,3 +1,4 @@
+
 #include "main.h"
 /**
  * _strncat - This is the main function for concatenates two strings
